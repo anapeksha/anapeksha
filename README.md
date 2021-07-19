@@ -8,4 +8,4 @@
 
 ### Skills
 
-<a href="https://www.hackerrank.com/anapeksha"><img src="https://images.app.goo.gl/hJ8U1T5i91CL9n2BA" height=40></a>
+<a href="https://www.hackerrank.com/anapeksha"><img src="<img src="https://img.icons8.com/windows/64/000000/hackerrank.png" height=40></a>
