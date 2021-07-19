@@ -6,6 +6,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
 ### Skills
 
 <a href="https://www.hackerrank.com/anapeksha"><img src="https://img.icons8.com/windows/64/000000/hackerrank.png" height=40></a>
