@@ -10,4 +10,4 @@
 
 ### Skills
 
-<a href="https://www.hackerrank.com/anapeksha"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=40></a>
+<a href="https://www.hackerrank.com/anapeksha"><img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" height=50></a>
