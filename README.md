@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey 👋
 
 - 🔭 I’m currently working on a MERN stack [project](https://github.com/anapeksha/mern-full-stack)
 - 📫 How to reach me: [Anapeksha Mukherjee](mailto:anapeksha.mukherjee@gmail.com)
@@ -10,4 +10,4 @@
 
 ### Skills
 
-<a href="https://www.hackerrank.com/anapeksha"><img src="https://img.icons8.com/windows/64/000000/hackerrank.png" height=40></a>
+<a href="https://www.hackerrank.com/anapeksha"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height=40></a>
