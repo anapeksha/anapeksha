@@ -1,4 +1,4 @@
-## Hey <img src="waving_hand.gif" width="20" height="20">
+## Hey <img src="waving_hand.gif" width="30" height="30">
 
 - 🔭 I’m currently working on a MERN stack [project](https://github.com/anapeksha/mern-full-stack)
 - 📫 How to reach me: [Anapeksha Mukherjee](mailto:anapeksha.mukherjee@gmail.com)
