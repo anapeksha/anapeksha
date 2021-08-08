@@ -1,5 +1,4 @@
-## Hey 
-<img src="https://tenor.com/view/wave-emoji-hi-hello-smile-gif-10359633">
+## Hey  <img src="391906110_WAVING_HAND_400px.gif">
 
 - 🔭 I’m currently working on a MERN stack [project](https://github.com/anapeksha/mern-full-stack)
 - 📫 How to reach me: [Anapeksha Mukherjee](mailto:anapeksha.mukherjee@gmail.com)
