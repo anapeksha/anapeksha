@@ -2,20 +2,13 @@
 
 - <img src="./gifs/project_gif.gif" width="20" height="20"> I’m currently working on a MERN stack [project](https://github.com/anapeksha/mern-full-stack)
 - <img src="./gifs/email_gif.gif" width="20" height="20"> Contact me? [Anapeksha Mukherjee](mailto:anapeksha.mukherjee@gmail.com)
+- <img src="https://thumbs.gfycat.com/BossyBriskLcont-size_restricted.gif"  width="80" height="80"> HE!
 <p></p>
 <p></p>
 
 ---
 
 <p></p>
-<p></p>
-
-## Pronoun
-
-<p></p>
-
-<img src="./gifs/pronoun_gif.gif" width="80" height="80">
-
 <p></p>
 
 ---
