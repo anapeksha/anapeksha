@@ -2,7 +2,7 @@
 
 - <img src="./gifs/project_gif.gif" width="20" height="20"> I’m currently working on a MERN stack [project](https://github.com/anapeksha/mern-full-stack)
 - <img src="./gifs/email_gif.gif" width="20" height="20"> Contact me? [Anapeksha Mukherjee](mailto:anapeksha.mukherjee@gmail.com)
-- <img src="./gifs/pronoun_gif"  width="20" height="20"> HE! 
+- <img src="./gifs/pronoun_gif.gif"  width="20" height="20"> HE! 
 <p></p>
 <p></p>
 
