@@ -1,4 +1,4 @@
-## Hey  <div class="tenor-gif-embed" data-postid="19369358" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/elsalla-gif-19369358">Elsalla Sticker</a>from <a href="https://tenor.com/search/elsalla-stickers">Elsalla Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Hey <img src="waving_hand.gif" width="20" height="20">
 
 - 🔭 I’m currently working on a MERN stack [project](https://github.com/anapeksha/mern-full-stack)
 - 📫 How to reach me: [Anapeksha Mukherjee](mailto:anapeksha.mukherjee@gmail.com)
