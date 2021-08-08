@@ -11,7 +11,7 @@
 <p></p>
 ## Pronoun
 <p></p>
-<img src="./gifs/pronoun_gif.gif" width="40" height="40">
+<img src="./gifs/pronoun_gif.gif" width="80" height="80">
 <p></p>
 
 ---
