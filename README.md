@@ -16,6 +16,6 @@
 <p></p>
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Repositories&theme=dracula)](https://github.com/anapeksha)
 
 </div>
