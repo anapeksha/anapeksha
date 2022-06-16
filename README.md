@@ -1,6 +1,5 @@
 <img src="./assets/name.svg" width="100%">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=anapeksha.anapeksha)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -32,7 +31,7 @@ const anapeksha = {
 	},
 	architecture: ["Progressive Web Application", "Single Page Application"],
 	os: ["linux", "macOS", "windows"],
-	focus: "delving into frontend techs",
+	focus: "delving deeper into frontend techs",
 };
 
 export default anapeksha;
@@ -46,9 +45,9 @@ export default anapeksha;
 ## Trophies
 
 <p></p>
-<div align="center" style="width: 100%, display: flex, justifyContent: center, align-items: center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Followers,Repositories&theme=matrix)](https://github.com/anapeksha)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Followers,Repositories,Issues&theme=matrix)](https://github.com/anapeksha)
 
 </div>
 
