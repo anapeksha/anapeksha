@@ -46,9 +46,9 @@ export default anapeksha;
 ## Trophies
 
 <p></p>
-<div align="center">
+<div style="width: 100%">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Repositories&theme=dracula)](https://github.com/anapeksha)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Followers,Repositories&theme=matrix)](https://github.com/anapeksha)
 
 </div>
 
