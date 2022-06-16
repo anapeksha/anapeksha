@@ -1,3 +1,5 @@
+<img src="./gifs/name.svg">
+
 # Hey <img src="./gifs/waving_hand.gif" width="25" height="25">
 
 - <img src="./gifs/project_gif.gif" width="20" height="20"> Recently worked on a Web [App](https://github.com/anapeksha/Pages)
