@@ -1,4 +1,4 @@
-<img src="./gifs/name.svg" style="display: flex; justify-content: center">
+<img src="./gifs/name.svg" align="center">
 
 # Hey <img src="./gifs/waving_hand.gif" width="25" height="25">
 
