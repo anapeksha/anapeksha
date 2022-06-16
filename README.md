@@ -8,7 +8,7 @@
 ```javascript
 const anapeksha = {
   pronouns: "He" | "His",
-  programmingLanguages: ["Javascript", "Python", "C++"],
+  programmingLanguages: ["Javascript", "Python", "C++", "HTML", "CSS"],
   spokenLanguages: ["bn-IN", "hi-IN", "en-US"],
   technologies: {
       backend: {
@@ -40,3 +40,9 @@ export default anapeksha;
 [![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Repositories&theme=dracula)](https://github.com/anapeksha)
 
 </div>
+
+## Project Highlights
+
+<a href="https://github.com/anapeksha/Finderbar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Finderbar&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Finderbar" />
+</a>
