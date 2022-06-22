@@ -34,7 +34,7 @@ const anapeksha = {
 	},
 	architecture: ["Progressive Web Application", "Single Page Application"],
 	os: ["linux", "macOS", "windows"],
-	focus: "delving deeper into frontend techs",
+	focus: ["delving deeper into frontend techs", "starting out with ukulele"],
 };
 
 export default anapeksha;
