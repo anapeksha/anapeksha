@@ -24,9 +24,12 @@
 ```javascript
 const anapeksha = {
 	pronouns: "He" | "His",
-	programmingLanguages: ["Javascript", "Python", "C++", "HTML", "CSS"],
+	programmingLanguages: ["Javascript", "Typescript", "Python", "C++", "HTML", "CSS"],
 	spokenLanguages: ["bn-IN", "hi-IN", "en-US"],
 	technologies: {
+		fullStack: {
+			js: ["NextJs"]
+		},
 		backend: {
 			js: ["Node", "Express"],
 		},
@@ -64,9 +67,9 @@ export default anapeksha;
 ## Project Highlights
 
 <a href="https://github.com/anapeksha/Finderbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Finderbar&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Finderbar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Cineflick&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cineflick" />
 </a>
 
 <a href="https://github.com/anapeksha/Pages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Pages&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Finderbar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Pages&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pages" />
 </a>
