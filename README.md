@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
-1[EsLint](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
+![EsLint](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
 
 
 # Hey <img src="./assets/waving_hand.gif" width="25" height="25">
@@ -59,13 +59,3 @@ export default anapeksha;
 [![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Followers,Repositories,Issues&theme=matrix)](https://github.com/anapeksha)
 
 </div>
-
-## Project Highlights
-
-<a href="https://github.com/anapeksha/Finderbar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Cineflick&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Cineflick" />
-</a>
-
-<a href="https://github.com/anapeksha/Pages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anapeksha&repo=Pages&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Pages" />
-</a>
