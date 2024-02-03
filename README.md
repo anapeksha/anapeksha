@@ -7,6 +7,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flate&logo=mui&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -54,7 +55,7 @@ export default anapeksha;
 ## Trophies
 
 <p></p>
-<div align="center">
+<div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Followers,Repositories,Issues&theme=matrix)](https://github.com/anapeksha)
 
