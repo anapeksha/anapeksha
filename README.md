@@ -29,16 +29,21 @@ const anapeksha = {
 			js: ["NextJs"]
 		},
 		backend: {
-			js: ["Node", "Express"],
+			js: ["Node.js", "Express.js", Nest.js],
 		},
 		frontend: {
-			js: ["React", "React Native", "SharePoint Framework"],
+			js: ["React.js", "SharePoint Framework"],
 		},
-		database: ["mongo"],
+                mobile: {
+                        js: ["React Native"],
+                },
+		database: ["mongo", "postgresql"],
+                ORM: ["Prisma"],
 	},
-	architecture: ["Component Libraries", "Progressive Web Application", "Single Page Application"],
+	architecture: ["Component Libraries", "Progressive Web Application", "Single Page Application", "Distributed applications", "Microservices"],
 	os: ["linux", "macOS", "windows"],
 	focus: [
+                "Building AuthSafe - A full-fledged auth applications for individuals, professionals and enterprises",
 		"Building component library for SPFx",
 		"love taking pictures",
 	],
