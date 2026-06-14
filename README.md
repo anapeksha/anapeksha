@@ -26,7 +26,7 @@ const anapeksha = {
 	spokenLanguages: ["bn-IN", "hi-IN", "en-US"],
 	technologies: {
 		fullStack: {
-			js: ["NextJs"]
+			js: ["NextJs"],
 		},
 		backend: {
 			js: ["Node.js", "Express.js", Nest.js],
@@ -43,25 +43,14 @@ const anapeksha = {
 	architecture: ["Component Libraries", "Progressive Web Application", "Single Page Application", "Distributed applications", "Microservices"],
 	os: ["linux", "macOS", "windows"],
 	focus: [
-                "Building AuthSafe - A full-fledged auth applications for individuals, professionals and enterprises",
-		"Building component library for SPFx",
+        "Building AuthSafe - A full-fledged auth applications for individuals, professionals and enterprises",
+		"Building Vaylix - A production grade key-value database",
 		"love taking pictures",
 	],
+	learning: [
+		"Embedded systems with Rust"
+	]
 };
 
 export default anapeksha;
 ```
-
----
-
-<p></p>
-<p></p>
-
-## Trophies
-
-<p></p>
-<div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anapeksha&title=Commit,Stars,Followers,Repositories,Issues&theme=matrix)](https://github.com/anapeksha)
-
-</div>
