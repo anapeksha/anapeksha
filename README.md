@@ -19,10 +19,9 @@
 ![no_std](https://img.shields.io/badge/no__std-ready-00599C?style=flat)
 ![Embassy](https://img.shields.io/badge/embassy-embedded-2f6f5e?style=flat)
 ![RP2350](https://img.shields.io/badge/RP2350-Pico%202%20W-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
-![USB HID](https://img.shields.io/badge/USB-HID-0052CC?style=flat&logo=usb&logoColor=white)
-![USB NCM](https://img.shields.io/badge/USB-NCM-0052CC?style=flat&logo=usb&logoColor=white)
-![LittleFS](https://img.shields.io/badge/littlefs2-flash-4B5563?style=flat)
-
+![Tokio](https://img.shields.io/badge/tokio-async-7B2CBF?style=flat)
+![ESP32-C6](https://img.shields.io/badge/ESP32--C6-RISC--V-E7352C?style=flat&logo=espressif&logoColor=white)
+![Espressif](https://img.shields.io/badge/espressif-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
 
 # Hey <img src="./assets/waving_hand.gif" width="25" height="25">
 
