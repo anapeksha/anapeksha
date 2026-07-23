@@ -19,7 +19,7 @@
 │ $ cat links.txt                                              │   │   └──────────────────────────────────────┘   │
 │ web    https://authsafe.in                                   │   │                                              │
 │ code   https://github.com/anapeksha                          │   │   logic  ────╮  ╭────╮  ╭────╮  ╭────        │
-│                                                              │   │              ╰──╯    ╰──╯    ╰──╯            │
+│ linkedin  https://www.linkedin.com/in/anapeksha/             │   │              ╰──╯    ╰──╯    ╰──╯            │
 │ $ uname -a                                                   │   │                                              │
 │ Linux · macOS · Windows · bare metal                         │   │       RUST  FROM  WEB  TO  BARE  METAL       │
 │                                                              │   │                                              │
