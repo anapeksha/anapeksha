@@ -1,5 +1,21 @@
 <img src="./assets/name.svg" width="100%">
 
+```console
+anapeksha@github:~$ neofetch
+
+          /\                 anapeksha@github
+         /  \                ----------------
+        / /\ \               Role: Software & Embedded Systems Engineer
+       / ____ \              Focus: distributed systems, embedded Rust, full-stack
+      /_/    \_\             Languages: Rust, TypeScript, JavaScript, Python, C++
+                             Runtimes: no_std, Embassy, Tokio, Node.js
+                             Targets: Web, Cloud, RP2350, ESP32-C6, STM32H7
+                             Platforms: Linux, macOS, Windows, bare metal
+                             Projects: AuthSafe, Vaylix, open-source Rust BSPs
+
+anapeksha@github:~$ _
+```
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
